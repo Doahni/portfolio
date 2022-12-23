@@ -415,7 +415,7 @@ a.active {
     background-position: center;
 }
 #about span{
-	color:#86acb6;
+	color:#cf6739;
 	font-weight:600;
 }
 
@@ -441,7 +441,7 @@ a.active {
 .h-1{
 	padding:30px 0 10px;
 	font-weight:500;
-	color:#92c1ca;
+	color:#00aeef;
 	letter-spacing:5%;
 }
 .h-3{
@@ -602,7 +602,7 @@ a.active {
 .skill-box > .skills-circle > ul > li {
   width: 150px;
   height: 150px;/*원크기조정가능*/
-  background-color: #86acb6;/*1.bar 채워지지않은 비워있는 color*/
+  background-color: #00aeef;/*1.bar 채워지지않은 비워있는 color*/
   border-radius: 50%;
   position: relative;
   display: inline-block;
@@ -611,7 +611,7 @@ a.active {
 }
 
 .skill-box > .skills-circle > ul > li > span {
-  color: #cb7a4d;
+  color: #002561;
   font-size:35px;
   padding:1.5em;
 }
@@ -633,7 +633,7 @@ a.active {
   display: block;
   width: 100%;
   height: 100%;
-  background: #cf6739;/*bar 채워지는 color*/
+  background: #002561;/*bar 채워지는 color*/
   clip: rect(0, 75px, 150px, 0);
 }
 .skill-box > .skills-circle > ul > li > span.bar-circle-left {
@@ -673,7 +673,7 @@ a.active {
 
 .portfolio .categories-grid .categories ul li a {
     display: inline-block;
-    color: #5d5a58;
+    color: #b3a177;
     padding: 0 10px;
     margin: 0 14px;
     -webkit-transition: all .2s ease-in-out .2s;
@@ -688,7 +688,7 @@ a.active {
 .portfolio .categories-grid .categories ul li a.active {
     background-color: #00aeef;
     padding: 0px 20px;
-    color: #f2e8df;
+    color: #ed1c24;
     text-decoration: none;
 }
 
@@ -841,7 +841,7 @@ a.active {
 
 #contact {
     padding: 30px 0;
-    background: #fffaee
+    background: #b3a17720;
 }
 #contact p{
 	
@@ -1070,6 +1070,7 @@ padding-top:10px;}
 .pj_text_box h3{
     font-weight: bold;
     margin:0 0 5px;
+    font-family: "BARA_B";
 }
 .pj_text_box p{
     margin:0;
@@ -1081,6 +1082,7 @@ padding-top:10px;}
 
 .portfolio a{
     color:#333;
+
 }
 
 .subject{
@@ -1088,6 +1090,7 @@ padding-top:10px;}
 }
 
 .subject a{
+    font-family: "BARA_B";
     color:#cf6739;
     font-weight: bold;
 }
