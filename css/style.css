@@ -75,7 +75,6 @@ body {
 }
 
 .size-50 {
-    font-family: "BARA_B";
     font-size: 50px;
     line-height: 50px;
     font-weight: bold;
@@ -299,7 +298,7 @@ a.active {
 	#home .container h2{
 		width:500px;
 		font-size:90px;
-		color:#002561;
+		color:#00aeef;
 		margin:50px 0 0 150px;
 		font-family: 'GongGothicMedium';
 	}
@@ -311,7 +310,7 @@ a.active {
 		
 	}
 	.table-cell h1{
-		color:#00aeef;
+		color:#002561;
 		padding-top:100px;
 	}
 	.disply-table {
@@ -518,7 +517,7 @@ a.active {
 }
 
 .timeline-event-copy {
-    padding: 5em;
+    padding-left: 5em;
     /*position: relative;
     top: -1.875em;
     left: 4em;
@@ -549,8 +548,8 @@ a.active {
     transition: transform 0.2s ease-in, -webkit-transform 0.2s ease-in;
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #ed1c24;
-    outline: 10px solid #b3a177;
+    background-color: #b3a177;
+    outline: 10px solid #fff;
     display: block;
     margin: 0.5em 0.5em 0.5em -0.5em;
     position: absolute;
@@ -567,9 +566,8 @@ a.active {
     -webkit-transition-delay: 0.2s;
     -webkit-transition: box-shadow 0.5s ease-in 0.2s;
     transition: box-shadow 0.5s ease-in 0.1s;
-    color: #f2e8df;
+    color: #002561;
     font-size: 12px;
-    font-weight: bold;
     background-color: #b3a177;
     box-shadow: inset 0 0 0 0em #5d5a58;
     display: inline-block;
@@ -673,7 +671,7 @@ a.active {
 
 .portfolio .categories-grid .categories ul li a {
     display: inline-block;
-    color: #b3a177;
+    color: #ccb8aa;
     padding: 0 10px;
     margin: 0 14px;
     -webkit-transition: all .2s ease-in-out .2s;
@@ -686,9 +684,9 @@ a.active {
 }
 
 .portfolio .categories-grid .categories ul li a.active {
-    background-color: #00aeef;
+    background-color: #00256150;
     padding: 0px 20px;
-    color: #ed1c24;
+    color: #00aeef;
     text-decoration: none;
 }
 
